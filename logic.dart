@@ -3,14 +3,6 @@ import 'dart:math';
 void main() {
   // logic: if; if/else; if/else if
 
-  var characters = [
-    "James T. Kirk",
-    "Spock",
-    "Leonard McCoy",
-    "Nyota Uhura",
-    "Hikaru Sulu"
-  ];
-
   var random = Random();
   var n = random.nextInt(10);
 
